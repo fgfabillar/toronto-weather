@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #F0ECE5;
+}
+
+body{
+    text-align: center;
+}
+
+.content{
+    border: 15px solid #B6BBC4;
+    margin: 50px;
+}
+
+.greetingmessage{
+    font-family: "Caprasimo", serif;
+    font-size: 65px;
+    padding-top: 100px;
+    color: #31304D;
+}
+
+h1{
+    font-family: "Bungee Shade", sans-serif;
+    font-size: 52px;
+    font-weight: 400;
+    font-style: normal;
+    color: #31304D;
+    padding-top: 55px;
+    padding-bottom: 25px;
+}
+
+p{
+    font-family: "Prata", serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: #161A30;
+    padding-top: 20px;
+    text-transform: capitalize;
+}
+
+#datetime{
+    font-family: "Prata", serif;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    color: #161A30;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
